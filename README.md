@@ -1,3 +1,5 @@
+[![Python Application](https://github.com/f4hxn/gqrx-joystick-controller/workflows/Python%20Application/badge.svg)](https://github.com/f4hxn/gqrx-joystick-controller/actions)
+
 # GQRX Joystick Controller
 
 Contrôleur joystick pour GQRX permettant de piloter facilement la radio logicielle GQRX.
