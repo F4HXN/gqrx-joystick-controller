@@ -4,11 +4,6 @@
 
 Contrôleur joystick pour GQRX permettant de piloter facilement la radio logicielle GQRX.
 
-## Installation
-
-```bash
-./scripts/setup_project.sh
-```
 
 ## Utilisation
 
