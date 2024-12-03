@@ -10,7 +10,7 @@ Script Python pour contrôler GQRX via un joystick.
 
 ## 🚀 Installation
 ```bash
-git clone https://github.com/yourusername/gqrx-joystick
+git clone https://github.com/f4hxn/gqrx-joystick
 cd gqrx-joystick
 pip install pygame
 ```
@@ -24,7 +24,7 @@ port = 7356         # Port GQRX
 ## 🕹️ Contrôles
 - **Axe X**: Ajustement fréquence
 - **Axe Y**: Contrôle volume
-- **Boutons**:
+- **Boutons**: (Exemple de préréglages de fréquences)
   - 1: FM (87.5 MHz)
   - 2: Bande 2m (144.8 MHz)
   - 3: Bande 70cm (433.5 MHz)
@@ -40,5 +40,5 @@ port = 7356         # Port GQRX
 MIT
 
 ## 📞 Support
-- Questions: [Issues](https://github.com/votre-repo/issues)
-- Contact: votre@email.com
+- Questions: [Issues](https://github.com/F4HXN/issues)
+- Contact: f4hxn@free.fr
