@@ -25,7 +25,7 @@ port = 7356         # Port GQRX
 ## 🕹️ Contrôles
 - **Axe X**: Ajustement fréquence
 - **Axe Y**: Contrôle volume
-- **Boutons**: (Exemple de préréglages de fréquences)
+- **Boutons**: (Exemples de préréglages de fréquences)
   - 1: FM (87.5 MHz)
   - 2: Bande 2m (144.8 MHz)
   - 3: Bande 70cm (433.5 MHz)
