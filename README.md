@@ -13,6 +13,7 @@ Script Python pour contrôler GQRX via un joystick.
 git clone https://github.com/f4hxn/gqrx-joystick
 cd gqrx-joystick
 pip install pygame
+./gqrx-joystick.py
 ```
 
 ## ⚙️ Configuration
