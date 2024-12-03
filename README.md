@@ -1,17 +1,44 @@
-[![Python Application](https://github.com/f4hxn/gqrx-joystick-controller/workflows/Python%20Application/badge.svg)](https://github.com/f4hxn/gqrx-joystick-controller/actions)
+# 🎮 GQRX Joystick Control
 
-# GQRX Joystick Controller
+Script Python pour contrôler GQRX via un joystick.
 
-Contrôleur joystick pour GQRX permettant de piloter facilement la radio logicielle GQRX.
+## 📋 Prérequis
+- Python 3.x
+- pygame
+- GQRX en cours d'exécution
+- Joystick USB
 
+## 🚀 Installation
+```bash
+git clone https://github.com/yourusername/gqrx-joystick
+cd gqrx-joystick
+pip install pygame
+```
 
-## Utilisation
+## ⚙️ Configuration
+```python
+host = "127.0.0.1"  # IP GQRX
+port = 7356         # Port GQRX
+```
 
-1. Démarrer GQRX
-2. Activer le contrôle à distance
-3. Brancher le joystick
-4. Lancer le programme
+## 🕹️ Contrôles
+- **Axe X**: Ajustement fréquence
+- **Axe Y**: Contrôle volume
+- **Boutons**:
+  - 1: FM (87.5 MHz)
+  - 2: Bande 2m (144.8 MHz)
+  - 3: Bande 70cm (433.5 MHz)
+  - 4: Marine VHF (156.8 MHz)
 
-## Support
+## 🛠️ Fonctionnalités
+- Contrôle en temps réel
+- Préréglages fréquences
+- Ajustement volume progressif
+- Interface Telnet GQRX
 
-Pour toute question ou problème, créer une issue sur GitHub.
+## 📜 License
+MIT
+
+## 📞 Support
+- Questions: [Issues](https://github.com/votre-repo/issues)
+- Contact: votre@email.com
